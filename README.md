@@ -2,10 +2,10 @@
 ## Vmesno poročilo o opravljenem delu ##
 
 ### Avtorji: ###
-* Erazem Bršar ()
-* Marjan Mohar ()
+* Erazem Bršar (63170066)
+* Marjan Mohar (63170206)
 * Miha Petrišič (63170400)
-* Urban Lipovž ()
+* Urban Lipovž (63170180)
 
 ## Množica podatkov ##
 Množica podatkov katere bomo analizirali je zbrana in dostopna na spletnem naslovu:
