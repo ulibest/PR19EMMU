@@ -77,7 +77,7 @@ plt.tick_params(axis='y', which='major', labelsize=8)
 plt.show()
 ```
 
-![Znamke](images/najpopvozil.png)
+![Znamke](PR19EMMU/Slike/najpop_znamka.png)
 
 ### Spol voznikov ###
 
