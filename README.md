@@ -1,4 +1,4 @@
-# Podatkovno rudarjenje: #
+# Analiza evidence registracij prevoznih sredstev: #
 ## Vmesno poročilo o opravljenem delu ##
 
 ### Avtorji: ###
